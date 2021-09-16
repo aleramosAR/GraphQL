@@ -5,11 +5,10 @@
 Use GraphQL en las rutas de Mensajes y Productos.<br />
 Las rutas de GraphQL de cada uno son:
 
-```http://localhost:8080/api/productos/graphql```
-```http://localhost:8080/api/mensajes/graphql```
+http://localhost:8080/api/productos/graphql<br />
+http://localhost:8080/api/mensajes/graphql
 <br /> <br/>
 <hr />
-<br />
 
 * #### Si tuviésemos un frontend, reformarlo para soportar GraphQL y poder dialogar apropiadamente con el backend y así realizar las distintas operaciones de pedir, guardar, actualizar y borrar recursos.
 
@@ -18,18 +17,15 @@ El front end esta funcionando ahora con GraphQL, las llamadas las hice desde axi
 ```/public/js/main.js```
 <br /> <br/>
 <hr />
-<br />
 
 * #### Utilizar GraphQL para realizar la prueba funcional de los querys y las mutaciones.
 
 Las rutas de GraphQL para testear son:
-
 <br />
 
 ### Productos
-<br />
 
-```http://localhost:8080/api/productos/graphql```
+http://localhost:8080/api/productos/graphql
 
 Se puede testear corriendo estos scripts en GraphiQL:
 
@@ -76,12 +72,9 @@ fragment productosFields on Producto {
 }
 ```
 
-<br />
-
 ### Mensajes
-<br />
 
-```http://localhost:8080/api/mensajes/graphql```
+http://localhost:8080/api/mensajes/graphql
 
 Se puede testear corriendo estos scripts en GraphiQL:
 
