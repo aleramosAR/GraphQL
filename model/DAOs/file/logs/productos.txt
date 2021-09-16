@@ -1,0 +1,41 @@
+{
+	"productos": [
+		{
+			"title": "HOLA",
+			"price": 1111,
+			"thumbnail": "12",
+			"_id": 1
+		},
+		{
+			"title": "PERA",
+			"price": 12,
+			"thumbnail": "09",
+			"_id": 2
+		},
+		{
+			"title": "FRUTA",
+			"price": 5555,
+			"thumbnail": "11",
+			"_id": 3
+		},
+		{
+			"title": "otra",
+			"price": "12",
+			"thumbnail": "12",
+			"_id": 4
+		},
+		{
+			"title": "12",
+			"price": "12",
+			"thumbnail": "12",
+			"_id": 5
+		},
+		{
+			"title": "MELON",
+			"price": "12",
+			"thumbnail": "12",
+			"_id": 7
+		}
+	],
+	"currentID": 1
+}
